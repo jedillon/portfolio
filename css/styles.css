@@ -9,6 +9,7 @@ p {
   font-style: Georgia
 }
 
-.important {
-  text-align: center
+.end {
+  text-align: center;
+  padding-bottom: 30px;
 }
