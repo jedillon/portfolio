@@ -1,5 +1,6 @@
-h2 {
-  padding-top: 20px;
+h4 {
+  margin: 5px;
+  padding: 5px;
   text-align: center;
   font-style: Georgia;
 }
@@ -7,6 +8,19 @@ h2 {
 p {
   text-align: center;
   font-style: Georgia
+}
+
+.newupdate {
+  margin: 12px;
+  border: 2px solid #A9A9A9;
+  padding: 4px;
+  background-color: #FFF;
+}
+
+.epicodus-logo {
+  float: left;
+  width: 150px;
+  padding: 10px;
 }
 
 .end {
